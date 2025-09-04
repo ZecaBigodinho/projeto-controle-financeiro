@@ -98,4 +98,4 @@ A estrutura do banco de dados está definida no arquivo `schema.sql`.
 
 - **Pedro Paulo Izaias Félix**
 
-OBS: O TAL DO RAPAHEL É APENAS O USUÁRIO QUE TAVA SALVO NA DROGA DO VSCODE, NÃO SEI COMO REMOVER ;-;
+OBS: O TAL DO RAPHAEL É APENAS O USUÁRIO QUE TAVA SALVO NA DROGA DO VSCODE, NÃO SEI COMO REMOVER ;-;
